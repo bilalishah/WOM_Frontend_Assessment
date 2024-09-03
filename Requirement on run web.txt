@@ -1,0 +1,3 @@
+First:Clone on Repositories
+Second:open file and cmd comd {npm i}downloads the Node_Modules
+
