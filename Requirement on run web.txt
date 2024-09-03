@@ -1,3 +1,29 @@
 First:Clone on Repositories
 Second:open file and cmd comd {npm i}downloads the Node_Modules
 
+
+Installing
+Using npm:
+
+$ npm install axios
+Using bower:
+
+$ bower install axios
+Using yarn:
+
+$ yarn add axios
+Using jsDelivr CDN:
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+Using unpkg CDN:
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+Prebuilt CommonJS modules for direct importing with require (if your module bundler failed to resolve them automatically)
+
+const axios = require('axios/dist/browser/axios.cjs'); // browser
+const axios = require('axios/dist/node/axios.cjs'); // node
+Gold Sponsors 
+Next »
+Minimal Example
+
+
